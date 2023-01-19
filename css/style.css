@@ -1,0 +1,93 @@
+.navbar-dark .navbar-nav .nav-link {
+  color: rgb(0, 0, 0);
+}
+.navbar-dark .navbar-brand {
+  color: gold;
+  font-size: 30px;
+  font-family: 'Dancing Script';
+  font-style:italic;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: gold;
+  border-color: gold;
+}
+.background{
+  background-image: url(../golden.png);
+}
+.masthead{
+  padding-top: 100px;
+}
+.text-gold{
+  color: gold;
+}
+.btn-social{
+  border-radius: 100%;
+  width: 45px;
+  height: 45px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.portfolio-item .img-fluid{
+  height: 400px;
+  object-fit: cover;
+  width: 454px;
+}
+.masthead-subheading{
+  font-size: 40px;
+  text-align: center;
+  color: white;
+  font-style: italic;
+}
+.masthead-heading {
+  font-weight: bold;
+  font-size: 70px;
+  text-align: center;
+  color: white;
+  padding-bottom: 10px;
+  padding-bottom: 50px;
+}
+.masthead{
+  text-align: center;
+  padding-bottom: 150px;
+}
+.masthead .a{
+  font-weight: bold;
+}
+.portfolio-item{
+  text-align: center;
+  background-color: white;
+}
+.portfolio-caption-heading{
+  font-weight: bold;
+  font-size: 20px;
+}
+#portfolio{
+  margin-top: 40px;
+
+}
+.footer{
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.page-section{
+  margin-top: 60px;
+}
+.btn-primary{
+  font-size: 20px;
+  font-weight: bold;
+}
+.section-heading{
+  font-weight: bold;
+}
+.section-subheading{
+  font-size: 20px;
+  color: gray;
+  font-style: italic;
+  margin-bottom: 50px;
+}
+.portfolio{
+  padding: 40px 0;
+}
